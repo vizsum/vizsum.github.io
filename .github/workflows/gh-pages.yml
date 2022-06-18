@@ -1,6 +1,3 @@
-# https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action
-# https://github.com/marketplace/actions/hugo-setup
-
 name: GitHub Pages
 
 on:
